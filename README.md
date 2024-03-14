@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MiriamRGarcia
 - 👀 I’m interested in mathematical models describing bacterial growth and death with antimicrobials using (ordinary, partial, stochastic) differential equations
     - Examples in Zenodo of Models (🖳), Data (📈) Models&Data (🖳📈) I have been working on
-        - 🖳📈 [Inactivation E. coli by BAC](https://zenodo.org/doi/10.5281/zenodo.1207616) 
+        - 🖳 [Inactivation E. coli by BAC](https://zenodo.org/doi/10.5281/zenodo.1207616) 
         - 🖳 [Smart active packaging with antimicrobials](https://zenodo.org/doi/10.5281/zenodo.3244153)
         - 📈 [Studied disinfectant substances against SARS-CoV-2 and other coronaviruses](https://zenodo.org/doi/10.5281/zenodo.4297015)
         - 📈 [A systematic review on fish freshness and quality indicators](https://zenodo.org/doi/10.5281/zenodo.6400471)
