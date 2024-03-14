@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiriamRGarcia, I’m interested in **mathematical models describing microbial growth and death** with temperature or with antimicrobials using (ordinary, partial, stochastic) differential equations
+- 👋 Hi, I’m @MiriamRGarcia, I’m interested in **mathematical modelling (and applications) of microbial growth and death** using (ordinary, partial, stochastic) differential equations
 - Models (🖳), Data (📈) Models&Data (🖳📈) I have been working on
   
   - 🖳 &nbsp;&nbsp; [Smart active packaging with antimicrobials](https://zenodo.org/doi/10.5281/zenodo.3244153)
@@ -16,7 +16,7 @@
 
 - (On-going work) 🌐  [Microracle](https://microracle.shinyapps.io/Microracle/)  Webpage with models (🖳) and data (📈)
 
-- 👀 I’m looking to collaborate on projects related with dynamic modelling of bacterial growth and death.
+- 👀 I’m looking to collaborate on projects requiring the modelling of microbial dynamics.
 - 📫 How to reach me ==> 📨 miriamr @ iim.csic.es, 🦋 @MiriamRGarcia.bsky.social 
 <!---
 MiriamRGarcia/MiriamRGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
