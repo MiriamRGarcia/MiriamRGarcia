@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MiriamRGarcia
-- 💞️ I’m looking to collaborate on projects related with dynamic modelling of bacterial growth and death.
 - 👀 I’m interested in mathematical models describing bacterial growth and death with antimicrobials using (ordinary, partial, stochastic) differential equations
     - Examples in Zenodo of models I have been working on
         - 📁 [Kinetics of E. coli inactivation by benzalkonium chloride](https://zenodo.org/doi/10.5281/zenodo.1207616) 
@@ -12,6 +11,7 @@
     - On-going Webpage with models and data
         - 👉[Microracle](https://microracle.shinyapps.io/Microracle/)  
 
+- 💞️ I’m looking to collaborate on projects related with dynamic modelling of bacterial growth and death.
 - 📫 How to reach me ==> Email: miriamr @ iim.csic.es ==> Twitter: @Miriam_R_Garcia
 <!---
 MiriamRGarcia/MiriamRGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
