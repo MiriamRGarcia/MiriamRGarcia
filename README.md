@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiriamRGarcia, Principal Investigator of a team interested in **mathematical modelling (and applications) of microbial growth and death** using (ordinary, partial, stochastic) differential equations. Usually coding in Matlab, R, C++...
-- See next a list of Models (🖳), Data (📈) Model&Data (🖳📈) I have been working on
+- See next a list of Models (🖳), Data (📈) or Model&Data (🖳📈) we have been working on
   - 🖳📈 [Inactivation Escherichia&Bacillus with sub-MIC Carvacrol](https://zenodo.org/doi/10.5281/zenodo.6656085) [(📜 Paper)](https://doi.org/10.1016/j.jfoodeng.2023.111734)
   - 🖳📈 [Inactivation Escherichia&Bacillus with Sub-MIC DDAC](https://zenodo.org/doi/10.5281/zenodo.5167910)       [(📜 Paper)](https://doi.org/10.1016/j.jfoodeng.2023.111734)
   - 🖳 &nbsp;&nbsp; [Inactivation Escherichia with BAC](https://zenodo.org/doi/10.5281/zenodo.1207616)              [(📜 Paper)](https://doi.org/10.3389/fmicb.2018.01259)
@@ -14,7 +14,7 @@
 
 - (On-going work) 🌐  [Microracle](https://microracle.shinyapps.io/Microracle/)  Webpage with models (🖳) and data (📈)
 
-- 👀 I’m looking to collaborate on projects requiring the modelling of microbial dynamics.
+- 👀 We are looking to collaborate on projects requiring the modelling of microbial dynamics.
 - 📫 How to reach me ==> 📨 miriamr @ iim.csic.es, 🦋 @MiriamRGarcia.bsky.social 
 <!---
 MiriamRGarcia/MiriamRGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
