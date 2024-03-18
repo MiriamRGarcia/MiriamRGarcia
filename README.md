@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiriamRGarcia, Principal Investigator of a team interested in **mathematical modelling (and applications) of microbial growth and death** using (ordinary, partial, stochastic) differential equations. Usually coding in Matlab, R, C++...
-- Links (open code) for Models (🖳), Data (📈) Models&Data (🖳📈) I have been working on
+- See next a list of Models (🖳), Data (📈) Model&Data (🖳📈) I have been working on
   - 🖳📈 [Inactivation Escherichia&Bacillus with sub-MIC Carvacrol](https://zenodo.org/doi/10.5281/zenodo.6656085) [(📜 Paper)](https://doi.org/10.1016/j.jfoodeng.2023.111734)
   - 🖳📈 [Inactivation Escherichia&Bacillus with Sub-MIC DDAC](https://zenodo.org/doi/10.5281/zenodo.5167910)       [(📜 Paper)](https://doi.org/10.1016/j.jfoodeng.2023.111734)
   - 🖳 &nbsp;&nbsp; [Inactivation Escherichia with BAC](https://zenodo.org/doi/10.5281/zenodo.1207616)              [(📜 Paper)](https://doi.org/10.3389/fmicb.2018.01259)
