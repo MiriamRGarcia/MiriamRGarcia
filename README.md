@@ -7,12 +7,15 @@
   - 🖳 &nbsp;&nbsp; [Smart active packaging with antimicrobials](https://zenodo.org/doi/10.5281/zenodo.3244153) [(📜 Paper)](https://doi.org/10.1016/j.fpsl.2019.10044610.1016/j.fpsl.2019.100446)
   - &nbsp;&nbsp; 📈 [Disinfectant against SARS-CoV-2 and other coronaviruses](https://zenodo.org/doi/10.5281/zenodo.4297015)[(📜 Paper)](https://doi.org/10.3390/foods10020283)
   - &nbsp;&nbsp; 📈 [Systematic review on fish freshness and quality indicators](https://zenodo.org/doi/10.5281/zenodo.6400471)     [(📜 Paper)](https://doi.org/10.3390/foods10020283)   
-- Tools (🔧) working in collaboration with [EFSA](https://www.efsa.europa.eu/en)
+- Tools (🔧) working for [EFSA](https://www.efsa.europa.eu/en)
   - 🔧 [FishT-TaB Simulator: Temperature simulator of fish stored in tubs and boxes](https://zenodo.org/doi/10.5281/zenodo.3725615)  [(📜 Paper)](http://dx.doi.org/10.2903/j.efsa.2020.6091)
   - 🔧 [HTM-SFFP Tool: Heat transfer superchilled fresh fishery products](https://zenodo.org/doi/10.5281/zenodo.4304282) [(📜 Paper)](http://dx.doi.org/10.2903/j.efsa.2021.6378)
 
 
-- (On-going work) 🌐  [Microracle](https://microracle.shinyapps.io/Microracle/)  Webpage with models (🖳) and data (📈)
+- (On-going work)
+  - 🌐  [Microracle](https://microracle.shinyapps.io/Microracle/)  Webpage with models (🖳) and data (📈)
+  - 🖳  [Modelling Heteroresistance](https://github.com/MiriamRGarcia/Heteroresistance)  GITHUB link
+  - 🖳📈  [Studying The synergy of antibacterials](https://github.com/MiriamRGarcia/antimicrobials-synergy)  GITHUB link
 
 - 👀 We are looking to collaborate on projects requiring the modelling of microbial dynamics.
 - 📫 How to reach me ==> 📨 miriamr @ iim.csic.es, 🦋 @MiriamRGarcia.bsky.social 
