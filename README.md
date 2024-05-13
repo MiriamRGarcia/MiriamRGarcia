@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MiriamRGarcia, Principal Investigator of a team interested in **mathematical modelling (and applications) of microbial growth and death** using (ordinary, partial, stochastic) differential equations. Usually coding in Matlab, R, C++...
 - See next a list of Models (🖳), Data (📈) or Model&Data (🖳📈) we have been working on
   - 🖳📈 [Inactivation Escherichia&Bacillus with sub-MIC Carvacrol](https://zenodo.org/doi/10.5281/zenodo.6656085) [(📜 Paper)](https://doi.org/10.1016/j.jfoodeng.2023.111734)
-  - 🖳📈 [Inactivation Escherichia&Bacillus with Sub-MIC DDAC](https://zenodo.org/doi/10.5281/zenodo.5167910)       [(📜 Paper)](https://doi.org/10.1016/j.jfoodeng.2023.111734)
+  - 🖳📈 [Inactivation Escherichia&Bacillus with Sub-MIC DDAC](https://zenodo.org/doi/10.5281/zenodo.5167910)       [(📜 Paper)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.758237/pdf?isPublishedV2=false)
   - 🖳 &nbsp;&nbsp; [Inactivation Escherichia with BAC](https://zenodo.org/doi/10.5281/zenodo.1207616)              [(📜 Paper)](https://doi.org/10.3389/fmicb.2018.01259)
   - 🖳📈 [Inactivation Listeria with BAC](https://zenodo.org/doi/10.5281/zenodo.6651603)                             [(📜 Paper)](https://doi.org/10.3390/ijms241512132)
   - 🖳 &nbsp;&nbsp; [Smart active packaging with antimicrobials](https://zenodo.org/doi/10.5281/zenodo.3244153) [(📜 Paper)](https://doi.org/10.1016/j.fpsl.2019.10044610.1016/j.fpsl.2019.100446)
