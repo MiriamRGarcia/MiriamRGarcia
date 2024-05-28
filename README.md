@@ -17,6 +17,7 @@
   - 🖳  [Modelling Heteroresistance](https://github.com/MiriamRGarcia/Heteroresistance)  GITHUB link
   - 🖳📈  [Studying The synergy of antibacterials](https://github.com/MiriamRGarcia/antimicrobials-synergy)  GITHUB link
 
+- 🌐 For more details, visit the web page of the [Bio2Eng Research Group ](https://bio2eng.csic.es)
 - 👀 We are looking to collaborate on projects requiring the modelling of microbial dynamics.
 - 📫 How to reach me ==> 📨 miriamr @ iim.csic.es, 🦋 @MiriamRGarcia.bsky.social, 🐦 @Miriam_R_Garcia
 <!---
