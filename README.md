@@ -13,8 +13,7 @@
   - 🔧 [FishT-TaB Simulator: Temperature simulator of fish stored in tubs and boxes](https://zenodo.org/doi/10.5281/zenodo.3725615)  [(📜 Paper)](http://dx.doi.org/10.2903/j.efsa.2020.6091)
   - 🔧 [HTM-SFFP Tool: Heat transfer superchilled fresh fishery products](https://zenodo.org/doi/10.5281/zenodo.4304282) [(📜 Paper)](http://dx.doi.org/10.2903/j.efsa.2021.6378)
 
-- (On-going work)
-  - 🌐  [Microracle](https://microracle.shinyapps.io/Microracle/)  Webpage with models (🖳) and data (📈)
+- (On-going work) 🌐  [Microracle](https://microracle.shinyapps.io/Microracle/)  Webpage with models (🖳) and data (📈)
 
 - 🌐 For more details, visit the web page of the [Bio2Eng Research Group ](https://bio2eng.csic.es)
 - 👀 We are looking to collaborate on projects requiring the modelling of microbial dynamics.
