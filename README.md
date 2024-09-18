@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @MiriamRGarcia, Principal Investigator of a team interested in **mathematical modelling (and applications) of microbial dynamics** using (ordinary, partial, stochastic) differential equations. Usually coding in Matlab, R, C++...
+- 👋 Hi, I’m @MiriamRGarcia, Principal Investigator of a team interested in **mathematical modelling (and applications) of microbial dynamics** using (ordinary, partial, stochastic) differential equations. Usually coding in Matlab, R, C++... See next some of our work
   
-- (On-going work) 🌐  [Microracle](https://microracle.shinyapps.io/Microracle/)  Webpage with models (🖳) and data (📈) for simulating bacterial dynamics with antimicrobials
+- User-friendly web-based applications 🌐. On-going work; contact us :incoming_envelope: to add a new related model
+    - <img src="https://github.com/user-attachments/assets/9a796a61-895e-4163-86ef-927def7d5613" alt="drawing" width="100"/> [Webpage with models 🖳 and data 📈 for simulating bacterial dynamics with antimicrobials](https://microracle.shinyapps.io/Microracle/) 
   
-- See next a list of Models (🖳), Data (📈) or Model&Data (🖳📈) we have been working on
+- List of Models (🖳), Data (📈) or Model&Data (🖳📈) we have been working on
   - 🖳📈 [Inactivation Escherichia&Bacillus with sub-MIC Carvacrol](https://zenodo.org/doi/10.5281/zenodo.6656085) [(📜 Paper)](https://doi.org/10.1016/j.jfoodeng.2023.111734)
   - 🖳📈 [Inactivation Escherichia&Bacillus with Sub-MIC DDAC](https://zenodo.org/doi/10.5281/zenodo.5167910)       [(📜 Paper)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.758237/pdf?isPublishedV2=false)
   - 🖳 &nbsp;&nbsp; [Inactivation Escherichia with BAC](https://zenodo.org/doi/10.5281/zenodo.1207616)              [(📜 Paper)](https://doi.org/10.3389/fmicb.2018.01259)
