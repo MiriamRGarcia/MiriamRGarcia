@@ -13,7 +13,7 @@
   - &nbsp;&nbsp; 📈 [Systematic review on fish freshness and quality indicators](https://zenodo.org/doi/10.5281/zenodo.6400471)     [(📜 Paper)](https://doi.org/10.3390/foods10020283)
   - 🖳📈 [Synergy between QACs and essential oils](https://zenodo.org/doi/10.5281/zenodo.11259960)                             [(📜 Paper)](https://doi.org/10.3390/foods13121831)
   - 🖳 &nbsp;&nbsp; [Stochastic model of Heteroresistance](https://doi.org/10.5281/zenodo.12635253)                             [(📜 Preprint)](https://dx.doi.org/10.2139/ssrn.4825402)
-- Tools (🔧) for [EFSA](https://www.efsa.europa.eu/en)
+- Tools (🔧) or apps (🌐) developed for [EFSA](https://www.efsa.europa.eu/en)
   - 🔧 [FishT-TaB Simulator: Temperature simulator of fish stored in tubs and boxes](https://zenodo.org/doi/10.5281/zenodo.3725615)  [(📜 Paper)](http://dx.doi.org/10.2903/j.efsa.2020.6091)
   - 🔧 [HTM-SFFP Tool: Heat transfer superchilled fresh fishery products](https://zenodo.org/doi/10.5281/zenodo.4304282) [(📜 Paper)](http://dx.doi.org/10.2903/j.efsa.2021.6378)
   - 🌐 [WaterManage4Your App](https://r4eu.efsa.europa.eu/app/WaterManage4You) [(📜 Technical Report)]([http://dx.doi.org/10.2903/j.efsa.2021.6378](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/sp.efsa.2025.EN-8924))
