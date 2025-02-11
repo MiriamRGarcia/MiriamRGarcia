@@ -6,7 +6,7 @@
 - Tools (🔧) or apps (🌐) developed for [EFSA](https://www.efsa.europa.eu/en)
   - 🔧 [FishT-TaB Simulator: Temperature simulator of fish stored in tubs and boxes](https://zenodo.org/doi/10.5281/zenodo.3725615)  [(📜 Paper)](http://dx.doi.org/10.2903/j.efsa.2020.6091)
   - 🔧 [HTM-SFFP Tool: Heat transfer superchilled fresh fishery products](https://zenodo.org/doi/10.5281/zenodo.4304282) [(📜 Paper)](http://dx.doi.org/10.2903/j.efsa.2021.6378)
-  - 🌐 [WaterManage4Your App](https://r4eu.efsa.europa.eu/app/WaterManage4You) [(📜 Technical Report)](https://doi.org/10.2903/sp.efsa.2025.EN-8924)
+  - 🌐 [WaterManage4Your App](https://r4eu.efsa.europa.eu/app/WaterManage4You) [(📜 Technical Report)](https://doi.org/10.2903/sp.efsa.2025.EN-8924) (in collaboration with [Alberto Garre](https://github.com/albgarre))
   
 - List of Models (🖳), Data (📈) or Model&Data (🖳📈) we have been working on
   - 🖳📈 [Inactivation Escherichia&Bacillus with sub-MIC Carvacrol](https://zenodo.org/doi/10.5281/zenodo.6656085) [(📜 Paper)](https://doi.org/10.1016/j.jfoodeng.2023.111734)
