@@ -18,7 +18,7 @@
   - &nbsp;&nbsp; 📈 [Systematic review on fish freshness and quality indicators](https://zenodo.org/doi/10.5281/zenodo.6400471)     [(📜 Paper)](https://doi.org/10.3390/foods10020283)
   - 🖳📈 [Synergy between QACs and essential oils](https://zenodo.org/doi/10.5281/zenodo.11259960)                             [(📜 Paper)](https://doi.org/10.3390/foods13121831)
   - 🖳 &nbsp;&nbsp; [Stochastic model of Heteroresistance](https://doi.org/10.5281/zenodo.12635253)                             [(📜 Preprint)](https://dx.doi.org/10.2139/ssrn.4825402)
-  - 🖳📈 [Virtual Representation of Fresh Produce Washing in 4.0 Industry: Modelling and Calibration through Optimal Experimental Design](https://zenodo.org/records/17296203) 
+  - 🖳📈 [Virtual Representation of Fresh Produce Washing in 4.0 Industry](https://zenodo.org/records/17296203) 
 
 - 🌐 For more details, visit the web page of the [Bio2Eng Research Group ](https://bio2eng.csic.es)
 - 👀 We are looking to collaborate on projects requiring the modelling of microbial dynamics.
