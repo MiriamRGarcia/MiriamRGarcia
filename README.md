@@ -22,7 +22,10 @@
 
 - 🌐 For more details, visit the web page of the [Bio2Eng Research Group ](https://bio2eng.csic.es)
 - 👀 We are looking to collaborate on projects requiring the modelling of microbial dynamics.
-- 📫 How to reach me ==> 📨 miriamr @ iim.csic.es, 🦋 @MiriamRGarcia.bsky.social 
+- 📫 How to reach me ==> 📨 miriamr @ iim.csic.es, 🦋 @MiriamRGarcia.bsky.social
+
+- We are also working on the following models in collaboration with other researchers:
+  - 🖳 &nbsp;&nbsp; [Code to simulate Model for Mechanistic prediction of dissolved oxygen concentrations in surface water considering the influence of salinity and temperature](https://doi.org/10.5281/zenodo.18241279)
 <!---
 MiriamRGarcia/MiriamRGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 🐦 @Miriam_R_Garcia
