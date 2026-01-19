@@ -25,7 +25,7 @@
 - 📫 How to reach me ==> 📨 miriamr @ iim.csic.es, 🦋 @MiriamRGarcia.bsky.social
 
 - We are also working on the following models in collaboration with other researchers:
-  - 🖳 &nbsp;&nbsp; [Code to simulate a compartment model of pacemaking in dissasociated Substantia nigra neurons with hyperbolic tetrahedral geometry](http://models.cellml.org/e/12b) with Rick Middelton and Febe Francis
+  - 🖳 &nbsp;&nbsp; [Code to simulate a compartment model of pacemaking in dissasociated Substantia nigra neurons with hyperbolic tetrahedral geometry](http://models.cellml.org/e/12b) with Rick Middleton and Febe Francis
   - 🖳 &nbsp;&nbsp; [Code to simulate Model for Mechanistic prediction of dissolved oxygen concentrations in surface water considering the influence of salinity and temperature](https://doi.org/10.5281/zenodo.18241279) with T.T. Yen Le 
 <!---
 MiriamRGarcia/MiriamRGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
