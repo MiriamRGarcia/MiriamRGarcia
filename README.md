@@ -18,15 +18,17 @@
   - &nbsp;&nbsp; 📈 [Systematic review on fish freshness and quality indicators](https://zenodo.org/doi/10.5281/zenodo.6400471)     [(📜 Paper)](https://doi.org/10.3390/foods10020283)
   - 🖳📈 [Synergy between QACs and essential oils](https://zenodo.org/doi/10.5281/zenodo.11259960)                             [(📜 Paper)](https://doi.org/10.3390/foods13121831)
   - 🖳 &nbsp;&nbsp; [Stochastic model of Heteroresistance](https://doi.org/10.5281/zenodo.12635253)                             [(📜 Preprint)](https://dx.doi.org/10.2139/ssrn.4825402)
-  - 🖳📈 [Virtual Representation of Fresh Produce Washing in 4.0 Industry](https://zenodo.org/records/17296203)  [(📜 Paper)](https://dx.doi.org/10.1016/j.ifset.2025.104307)      
+  - 🖳📈 [Virtual Representation of Fresh Produce Washing in 4.0 Industry](https://zenodo.org/records/17296203)  [(📜 Paper)](https://dx.doi.org/10.1016/j.ifset.2025.104307)
+ 
+- We are also working on the following models in collaboration with other researchers:
+  - 🖳 &nbsp;&nbsp; [Code to simulate a compartment model of pacemaking in dissasociated Substantia nigra neurons with hyperbolic tetrahedral geometry](http://models.cellml.org/e/12b) with Rick Middleton and Febe Francis
+  - 🖳 &nbsp;&nbsp; [Code to simulate Model for Mechanistic prediction of dissolved oxygen concentrations in surface water considering the influence of salinity and temperature](https://doi.org/10.5281/zenodo.18241279) with T.T. Yen Le      
 
 - 🌐 For more details, visit the web page of the [Bio2Eng Research Group ](https://bio2eng.csic.es)
 - 👀 We are looking to collaborate on projects requiring the modelling of microbial dynamics.
 - 📫 How to reach me ==> 📨 miriamr @ iim.csic.es, 🦋 @MiriamRGarcia.bsky.social
 
-- We are also working on the following models in collaboration with other researchers:
-  - 🖳 &nbsp;&nbsp; [Code to simulate a compartment model of pacemaking in dissasociated Substantia nigra neurons with hyperbolic tetrahedral geometry](http://models.cellml.org/e/12b) with Rick Middleton and Febe Francis
-  - 🖳 &nbsp;&nbsp; [Code to simulate Model for Mechanistic prediction of dissolved oxygen concentrations in surface water considering the influence of salinity and temperature](https://doi.org/10.5281/zenodo.18241279) with T.T. Yen Le 
+
 <!---
 MiriamRGarcia/MiriamRGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 🐦 @Miriam_R_Garcia
