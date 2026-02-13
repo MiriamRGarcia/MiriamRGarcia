@@ -1,14 +1,19 @@
-- 👋 Hi, I’m @MiriamRGarcia, Principal Investigator of a team interested in **mathematical modelling (and applications) of microbial dynamics** using (ordinary, partial, stochastic) differential equations. Usually coding in Matlab, R, C++... See next some of our work
-  
-- User-friendly web-based applications 🌐. On-going work; contact us :incoming_envelope: to add a new related model
-    - <img src="https://github.com/user-attachments/assets/9a796a61-895e-4163-86ef-927def7d5613" alt="drawing" width="100"/> [Webpage with models 🖳 and data 📈 for simulating bacterial dynamics with antimicrobials](https://microracle.shinyapps.io/Microracle/)
- 
-- Tools (🔧) or apps (🌐) developed for [EFSA](https://www.efsa.europa.eu/en)
-  - 🔧 [FishT-TaB Simulator: Temperature simulator of fish stored in tubs and boxes](https://zenodo.org/doi/10.5281/zenodo.3725615)  [(📜 Paper)](http://dx.doi.org/10.2903/j.efsa.2020.6091)
-  - 🔧 [HTM-SFFP Tool: Heat transfer superchilled fresh fishery products](https://zenodo.org/doi/10.5281/zenodo.4304282) [(📜 Paper)](http://dx.doi.org/10.2903/j.efsa.2021.6378)
-  - 🌐 [WaterManage4Your App during the washing process of fruits and vegetables](https://r4eu.efsa.europa.eu/app/WaterManage4You) [(📜 Technical Report)](https://doi.org/10.2903/sp.efsa.2025.EN-8924) (in collaboration with [Alberto Garre](https://github.com/albgarre))
-  
-- List of Models (🖳), Data (📈) or Model&Data (🖳📈) we have been working on
+👋 Hi, I’m @MiriamRGarcia, Principal Investigator of a team interested in **mathematical modelling (and applications) of microbial dynamics** using (ordinary, partial, stochastic) differential equations. Usually coding in Matlab, R, C++... See next some of our work
+
+
+
+## User-friendly web-based application (🌐) on-going work 
+- <img src="https://github.com/user-attachments/assets/9a796a61-895e-4163-86ef-927def7d5613" alt="drawing" width="100"/> [Webpage with models 🖳 and data 📈 for simulating bacterial dynamics with antimicrobials](https://microracle.shinyapps.io/Microracle/) contact us to add a new related model
+
+## Delivered works
+
+| Tools (🔧) or apps (🌐) developed for [EFSA](https://www.efsa.europa.eu/en) | Type | Data/code | Paper |
+|-------------|------|-------------|-------|
+| FishT-TaB Simulator: Temperature simulator of fish stored in tubs and boxes | Comsol code 🔧 | [Knowledge Junction zenodo EFSA repository](https://zenodo.org/doi/10.5281/zenodo.3725615) | [📜 Scientific Opinion](http://dx.doi.org/10.2903/j.efsa.2020.6091) |
+| HTM-SFFP Tool: Heat transfer superchilled fresh fishery products | Excel calculator 🔧 | [Knowledge Junction zenodo EFSA repository](https://zenodo.org/doi/10.5281/zenodo.4304282) | [📜 Scientific Opinion](http://dx.doi.org/10.2903/j.efsa.2021.6378) |
+| WaterManage4Your App during the washing process of fruits and vegetables (in collaboration with [Alberto Garre](https://github.com/albgarre))  | Web-interactive App 🌐 | [EFSA web for models](https://r4eu.efsa.europa.eu/app/WaterManage4You) | [📜 Technical Report](https://doi.org/10.2903/sp.efsa.2025.EN-8924) |
+
+
 
 | 🦠 Antimicrobial-Bacteria Dynamics | Type | Data/code | Paper |
 |-------------|------|-------------|-------|
@@ -19,12 +24,12 @@
 | Stochastic Model of Bacterial Heteroresistance | 🖳 Model | [Zenodo](https://doi.org/10.5281/zenodo.12635253) | [Read Paper](https://doi.org/10.1016/j.mbs.2024.109278) |
 | Synergy Between QACs & Essential Oils | 🖳 Model<br>📈 Data | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.11259960) | [Read Paper](https://doi.org/10.3390/foods13121831) |
 
-| 📚 Reviews with Databases | |  |  |
+| 📚 Reviews with Databases | Type | Data/code | Paper |
 |-------------|------|-------------|-------|
 | Disinfectant Efficacy Against SARS-CoV-2 | 📈 Data | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.4297015) | [Read Paper](https://doi.org/10.3390/foods10020283) |
 | Fish Freshness & Quality Indicators | 📈 Data | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.6400471) | [Read Paper](https://doi.org/10.3390/foods10020283) |
 
-| 🏭 Industry 4.0 with Antimicrobials |  |  |  |
+| 🏭 Industry 4.0 with Antimicrobials | Type | Data/code | Paper |
 |-------------|------|-------------|-------|
 | Smart Active Packaging with Antimicrobials | 🖳 Model | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3244153) | [Read Paper](https://doi.org/10.1016/j.fpsl.2019.100446) |
 | Virtual Representation of Fresh Produce Washing | 🖳 Model<br>📈 Data | [Zenodo](https://zenodo.org/records/17296203) | [Read Paper](https://doi.org/10.1016/j.ifset.2025.104307) |
