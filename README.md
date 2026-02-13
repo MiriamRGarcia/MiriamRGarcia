@@ -9,22 +9,25 @@
   - 🌐 [WaterManage4Your App during the washing process of fruits and vegetables](https://r4eu.efsa.europa.eu/app/WaterManage4You) [(📜 Technical Report)](https://doi.org/10.2903/sp.efsa.2025.EN-8924) (in collaboration with [Alberto Garre](https://github.com/albgarre))
   
 - List of Models (🖳), Data (📈) or Model&Data (🖳📈) we have been working on
-  
-| Title | Type | Source | Publication |
-|-------|------|-------|-----------|
-| **Antimicrobial-bacteria dynamics** | | |
-| Inactivation *Escherichia&Bacillus* with sub-MIC Carvacrol | 🖳 Model & 📈 Data| [zenodo](https://zenodo.org/doi/10.5281/zenodo.6656085) |  [📜 Paper](https://doi.org/10.1016/j.jfoodeng.2023.111734) |
-| Inactivation *Escherichia&Bacillus* with Sub-MIC DDAC | 🖳 Model & 📈 Data| [zenodo](https://zenodo.org/doi/10.5281/zenodo.5167910)      | [📜 Paper](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.758237/pdf?isPublishedV2=false) |
-| Inactivation *Escherichia* with BAC | 🖳 Model | [zenodo](https://zenodo.org/doi/10.5281/zenodo.1207616)      |        [📜 Paper](https://doi.org/10.3389/fmicb.2018.01259) |
-| Inactivation *Listeria* with BAC |  🖳 Model & 📈 Data | [zenodo](https://zenodo.org/doi/10.5281/zenodo.6651603)   |  [📜 Paper](https://doi.org/10.3390/ijms241512132) |
-| Stochastic Model of Bacterial Heteroresistance | 🖳 Model | [Zenodo](https://doi.org/10.5281/zenodo.12635253) | [📜 Paper](https://doi.org/10.1016/j.mbs.2024.109278) |
-| Synergy Between Quaternary Ammonium Compounds (QACs) and Essential Oils | 🖳 Model & 📈 Data| [Zenodo](https://zenodo.org/doi/10.5281/zenodo.11259960) | [📜 Paper](https://doi.org/10.3390/foods13121831) |
-| **Reviews with database** |||
-| Disinfectant Efficacy Against SARS-CoV-2 and Other Coronaviruses | 📈 Data | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.4297015) | [📜 Paper](https://doi.org/10.3390/foods10020283) |
-| Systematic Review on Fish Freshness and Quality Indicators |  📈 Data| [Zenodo](https://zenodo.org/doi/10.5281/zenodo.6400471) | [📜 Paper](https://doi.org/10.3390/foods10020283) |
-| **4.0 processess with antimicrobials** | | |
-| Smart Active Packaging with Antimicrobials | 🖳 Model | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3244153) | [📜 Paper](https://doi.org/10.1016/j.fpsl.2019.100446) |
-| Virtual Representation of Fresh Produce Washing in Industry 4.0 | 🖳 Model & 📈 Data| [Zenodo](https://zenodo.org/records/17296203) | [📜 Paper](https://doi.org/10.1016/j.ifset.2025.104307) |
+
+| 🦠 Antimicrobial-Bacteria Dynamics | Type | Data/code | Paper |
+|-------------|------|-------------|-------|
+| Inactivation *E. coli & Bacillus* with sub-MIC Carvacrol | 🖳 Model<br>📈 Data | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.6656085) | [Read Paper](https://doi.org/10.1016/j.jfoodeng.2023.111734) |
+| Inactivation *E. coli & Bacillus* with Sub-MIC DDAC | 🖳 Model<br>📈 Data | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.5167910) | [Read Paper](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.758237/pdf) |
+| Inactivation *E. coli* with BAC | 🖳 Model | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.1207616) | [Read Paper](https://doi.org/10.3389/fmicb.2018.01259) |
+| Inactivation *Listeria* with BAC | 🖳 Model<br>📈 Data | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.6651603) | [Read Paper](https://doi.org/10.3390/ijms241512132) |
+| Stochastic Model of Bacterial Heteroresistance | 🖳 Model | [Zenodo](https://doi.org/10.5281/zenodo.12635253) | [Read Paper](https://doi.org/10.1016/j.mbs.2024.109278) |
+| Synergy Between QACs & Essential Oils | 🖳 Model<br>📈 Data | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.11259960) | [Read Paper](https://doi.org/10.3390/foods13121831) |
+
+| 📚 Reviews with Databases | |  |  |
+|-------------|------|-------------|-------|
+| Disinfectant Efficacy Against SARS-CoV-2 | 📈 Data | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.4297015) | [Read Paper](https://doi.org/10.3390/foods10020283) |
+| Fish Freshness & Quality Indicators | 📈 Data | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.6400471) | [Read Paper](https://doi.org/10.3390/foods10020283) |
+
+| 🏭 Industry 4.0 with Antimicrobials |  |  |  |
+|-------------|------|-------------|-------|
+| Smart Active Packaging with Antimicrobials | 🖳 Model | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3244153) | [Read Paper](https://doi.org/10.1016/j.fpsl.2019.100446) |
+| Virtual Representation of Fresh Produce Washing | 🖳 Model<br>📈 Data | [Zenodo](https://zenodo.org/records/17296203) | [Read Paper](https://doi.org/10.1016/j.ifset.2025.104307) |
 
 - We are also working on the following models in collaboration with other researchers:
   - 🖳 &nbsp;&nbsp; [Code to simulate a compartment model of pacemaking in dissasociated Substantia nigra neurons with hyperbolic tetrahedral geometry](http://models.cellml.org/e/12b) with Rick Middleton and Febe Francis
