@@ -3,7 +3,8 @@
 
 
 ## User-friendly web-based application (🌐) on-going work 
-- <img src="https://github.com/user-attachments/assets/9a796a61-895e-4163-86ef-927def7d5613" alt="drawing" width="100"/> [Webpage with models 🖳 and data 📈 for simulating bacterial dynamics with antimicrobials](https://microracle.shinyapps.io/Microracle/) contact us to add a new related model
+- <img src="https://github.com/user-attachments/assets/9a796a61-895e-4163-86ef-927def7d5613" alt="drawing" width="100"/> [Understanding, by simulation, the effect of antimicrobials in bacteial dynamics](https://microracle.shinyapps.io/Microracle/)
+
 
 ## Delivered works
 
