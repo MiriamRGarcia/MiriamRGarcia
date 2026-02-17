@@ -1,9 +1,13 @@
 👋 Hi, I’m @MiriamRGarcia, Principal Investigator of a team interested in **mathematical modelling (and applications) of microbial dynamics** using (ordinary, partial, stochastic) differential equations. Usually coding in Matlab, R, C++... See next some of our work
+- 🌐 For more details, visit the web page of the [Bio2Eng Research Group ](https://bio2eng.csic.es)
+- 👀 We are looking to collaborate on projects requiring the modelling of microbial dynamics.
+- 📫 How to reach me ==> 📨 miriamr @ iim.csic.es, 🦋 @MiriamRGarcia.bsky.social
 
+See following a list of projects we have been working
 
 
 ## User-friendly web-based application (🌐) on-going work 
-- <img src="https://github.com/user-attachments/assets/9a796a61-895e-4163-86ef-927def7d5613" alt="drawing" width="100"/> [Understanding, by simulation, the effect of antimicrobials in bacteial dynamics](https://microracle.shinyapps.io/Microracle/)
+<img src="https://github.com/user-attachments/assets/9a796a61-895e-4163-86ef-927def7d5613" alt="drawing" width="100"/> [Understanding, by simulation, the effect of antimicrobials in bacteial dynamics](https://microracle.shinyapps.io/Microracle/)
 
 
 ## Delivered works
@@ -12,7 +16,7 @@
 |-------------|------|-------------|-------|
 | FishT-TaB Simulator: Temperature simulator of fish stored in tubs and boxes | Comsol code 🔧 | [Knowledge Junction zenodo EFSA repository](https://zenodo.org/doi/10.5281/zenodo.3725615) | [📜 Scientific Opinion](http://dx.doi.org/10.2903/j.efsa.2020.6091) |
 | HTM-SFFP Tool: Heat transfer superchilled fresh fishery products | Excel calculator 🔧 | [Knowledge Junction zenodo EFSA repository](https://zenodo.org/doi/10.5281/zenodo.4304282) | [📜 Scientific Opinion](http://dx.doi.org/10.2903/j.efsa.2021.6378) |
-| WaterManage4Your App during the washing process of fruits and vegetables (in collaboration with [Alberto Garre](https://github.com/albgarre))  | Web-interactive App 🌐 | [EFSA web for models](https://r4eu.efsa.europa.eu/app/WaterManage4You) | [📜 Technical Report](https://doi.org/10.2903/sp.efsa.2025.EN-8924) |
+| WaterManage4Your App during the washing process of fruits and vegetables (in collaboration with [MxQ-CEBAS-CSIC group](https://mxq.cebas.csic.es/) and [Alberto Garre](https://github.com/albgarre))  | Web-interactive App 🌐 | [EFSA web for models](https://r4eu.efsa.europa.eu/app/WaterManage4You) | [📜 Technical Report](https://doi.org/10.2903/sp.efsa.2025.EN-8924) |
 
 
 
@@ -34,14 +38,12 @@
 |-------------|------|-------------|-------|
 | Smart Active Packaging with Antimicrobials | 🖳 Model | [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3244153) | [Read Paper](https://doi.org/10.1016/j.fpsl.2019.100446) |
 | Virtual Representation of Fresh Produce Washing | 🖳 Model<br>📈 Data | [Zenodo](https://zenodo.org/records/17296203) | [Read Paper](https://doi.org/10.1016/j.ifset.2025.104307) |
+## Collaborations
+We are also working on the following models in collaboration with other researchers:
+- 🖳 &nbsp;&nbsp; [Code to simulate a compartment model of pacemaking in dissasociated Substantia nigra neurons with hyperbolic tetrahedral geometry](http://models.cellml.org/e/12b) with Rick Middleton and Febe Francis
+- 🖳 &nbsp;&nbsp; [Code to simulate Model for Mechanistic prediction of dissolved oxygen concentrations in surface water considering the influence of salinity and temperature](https://doi.org/10.5281/zenodo.18241279) with T.T. Yen Le      
 
-- We are also working on the following models in collaboration with other researchers:
-  - 🖳 &nbsp;&nbsp; [Code to simulate a compartment model of pacemaking in dissasociated Substantia nigra neurons with hyperbolic tetrahedral geometry](http://models.cellml.org/e/12b) with Rick Middleton and Febe Francis
-  - 🖳 &nbsp;&nbsp; [Code to simulate Model for Mechanistic prediction of dissolved oxygen concentrations in surface water considering the influence of salinity and temperature](https://doi.org/10.5281/zenodo.18241279) with T.T. Yen Le      
 
-- 🌐 For more details, visit the web page of the [Bio2Eng Research Group ](https://bio2eng.csic.es)
-- 👀 We are looking to collaborate on projects requiring the modelling of microbial dynamics.
-- 📫 How to reach me ==> 📨 miriamr @ iim.csic.es, 🦋 @MiriamRGarcia.bsky.social
 
 
 <!---
